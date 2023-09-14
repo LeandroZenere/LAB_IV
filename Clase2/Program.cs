@@ -8,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IServicioCiudad, ServicioCiudad>();
+builder.Services.AddScoped<IMessageWriter, LogginMessageWriter>();
 
 var app = builder.Build();
 

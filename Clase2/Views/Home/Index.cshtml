@@ -3,17 +3,42 @@
 
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    
+<div">
+    <label>Fecha de hoy: @DateTime.Now.ToString()</label> <br>
+    <label>Fecha escrita: @DateTime.Now.ToLongDateString()</label> <br>
+    <label>Operaciones matemáticas: @(250+250)</label> <br>
 </div>
-<table>
-    <tr>    
+<br/>
 
+@{
+var num1=100;
+var num2 = 200;
+var num3 = num1+num2;
+string mensaje = "Hola estimados";
+}
 
+<label> Sumando dos números = @num3</label>
+<br/>
+<label>@mensaje</label>
+<br>
+<label>Mi Instagram = @@zenere.leo</label>
+<br/>
 
+@*  Loop *@
+@for (var i = 0; i < 5; i++) {
+    <p>Line @i</p>
+}
+<br/>
 
+@* Logica *@
+@{ var price = 50;}
+@if (price > 30) {<p> Es caro este producto</p>} 
+else {<p>Es barato este producto.</p>}
+@*<table>
+*@    <tr> <th> Nombre </th> <th>Realizado</th>> </tr>
+    <tr>
+        @for (int i = 0; i > 30; i++) {
+        }
     </tr>
 </table>
 <br />
