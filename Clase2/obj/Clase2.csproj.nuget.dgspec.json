@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UTN\\Desktop\\Clase2 (4)\\Clase2\\Clase2\\Clase2.csproj": {}
+    "C:\\Users\\UTN\\Desktop\\LAB_IV\\Clase2\\Clase2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UTN\\Desktop\\Clase2 (4)\\Clase2\\Clase2\\Clase2.csproj": {
+    "C:\\Users\\UTN\\Desktop\\LAB_IV\\Clase2\\Clase2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UTN\\Desktop\\Clase2 (4)\\Clase2\\Clase2\\Clase2.csproj",
+        "projectUniqueName": "C:\\Users\\UTN\\Desktop\\LAB_IV\\Clase2\\Clase2.csproj",
         "projectName": "Clase2",
-        "projectPath": "C:\\Users\\UTN\\Desktop\\Clase2 (4)\\Clase2\\Clase2\\Clase2.csproj",
+        "projectPath": "C:\\Users\\UTN\\Desktop\\LAB_IV\\Clase2\\Clase2.csproj",
         "packagesPath": "C:\\Users\\UTN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UTN\\Desktop\\Clase2 (4)\\Clase2\\Clase2\\obj\\",
+        "outputPath": "C:\\Users\\UTN\\Desktop\\LAB_IV\\Clase2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

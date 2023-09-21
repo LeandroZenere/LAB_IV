@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cBTFeon3AJc/aZcRrSHjhMMQ3c8YwJTWDAP2Upq/7hStVRV+yCuxfOMvwBHW0TwGQvuRBAtmfE8DhNizafoYwQ==",
+  "dgSpecHash": "cJvmnrfGESB+oQp4OM3JeWf/BLHUTvffO2fmVeqgS5ggEVS1sUwb9uNHkNZ30VaNjB8WRdesV74MHrUrB9Xb4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UTN\\Desktop\\Clase2 (4)\\Clase2\\Clase2\\Clase2.csproj",
+  "projectFilePath": "C:\\Users\\UTN\\Desktop\\LAB_IV\\Clase2\\Clase2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UTN\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\UTN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

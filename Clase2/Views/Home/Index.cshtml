@@ -3,7 +3,7 @@
 
 }
 
-<div">
+<div>
     <label>Fecha de hoy: @DateTime.Now.ToString()</label> <br>
     <label>Fecha escrita: @DateTime.Now.ToLongDateString()</label> <br>
     <label>Operaciones matemáticas: @(250+250)</label> <br>
@@ -34,13 +34,8 @@ string mensaje = "Hola estimados";
 @{ var price = 50;}
 @if (price > 30) {<p> Es caro este producto</p>} 
 else {<p>Es barato este producto.</p>}
-@*<table>
-*@    <tr> <th> Nombre </th> <th>Realizado</th>> </tr>
-    <tr>
-        @for (int i = 0; i > 30; i++) {
-        }
-    </tr>
-</table>
+
+
 <br />
 @Html.Label("First Name", "First Name:", new {@class="caption"})
 <br />
