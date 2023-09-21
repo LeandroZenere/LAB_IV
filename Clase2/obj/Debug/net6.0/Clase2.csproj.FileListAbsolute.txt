@@ -903,3 +903,4 @@ C:\Users\UTN\Desktop\LAB_IV\Clase2\obj\Debug\net6.0\refint\Clase2.dll
 C:\Users\UTN\Desktop\LAB_IV\Clase2\obj\Debug\net6.0\Clase2.pdb
 C:\Users\UTN\Desktop\LAB_IV\Clase2\obj\Debug\net6.0\Clase2.genruntimeconfig.cache
 C:\Users\UTN\Desktop\LAB_IV\Clase2\obj\Debug\net6.0\ref\Clase2.dll
+C:\Users\UTN\Desktop\LAB_IV\Clase2\obj\Debug\net6.0\scopedcss\Views\Shared\_MenuBar.cshtml.rz.scp.css
