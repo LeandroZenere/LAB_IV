@@ -1,25 +1,32 @@
-﻿@model IEnumerable<Clase2.Models.Cliente>
+﻿@model Clase2.ViewModel.ClienteViewModel
 
 @{
     ViewData["Title"] = "Index";
 }
 <p>
     <div class="col-2">
-        <a asp-action="Create" class="btn btn-success">Crear Client</a>
+        <a asp-action="Create" class="btn btn-success">Crear Cliente</a>
     </div>
 </p>
 
-@*<h4>Lista de Clientes</h4>
+<h4>Lista de Clientes</h4>
 <ul>
     @foreach (var cliente in Model.Cliente)
     {
     <li>
         @cliente.Nombre;
-
     </li>
     }
+</ul
 
-*@
+<h4>Lista de Productos</h4>
+<ul>
+    @foreach (var producto in Model.Producto)
+    {
+        <li>
+            @producto.Descripcion;
+        </li>
+    }
 </ul>
 
 
