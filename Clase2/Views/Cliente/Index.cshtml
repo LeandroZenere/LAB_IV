@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Clase2.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<p>
+    <div class="col-2">
+        <a asp-action="Create" class="btn btn-success">Crear Client</a>
+    </div>
+</p>
+
+@*<h4>Lista de Clientes</h4>
+<ul>
+    @foreach (var cliente in Model.Cliente)
+    {
+    <li>
+        @cliente.Nombre;
+
+    </li>
+    }
+
+*@
+</ul>
+
+
